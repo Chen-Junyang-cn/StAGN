@@ -7,9 +7,9 @@ StAGN: Spatial-Temporal Adaptive Graph Network via Constranstive Learning for Sl
 The ISRUC dataset can be downloaded from website: https://sleeptight.isr.uc.pt
 
 ## Preprocess
-Run `ISRUC_S3_preprocess.py`
+Run `preprocess.py`
 
-`python ISRUC_S3_preprocess.py`
+`python preprocess.py`
 
 ## Train model
-You can change the input data path and run. Note that the output from MFE is the STA_GCN's input.
+You can change the input data **path** and run. Note that the output from MFE is the STA_GCN's input.
