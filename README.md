@@ -1,6 +1,8 @@
 # StAGN
 StAGN: Spatial-Temporal Adaptive Graph Network via Constranstive Learning for Sleep Stage Classification, which is improved from [MSTGCN](https://github.com/ziyujia/MSTGCN).
 
+![model_architecture](model_structure.jpg)
+
 ## Dataset
 The ISRUC dataset can be downloaded from website: https://sleeptight.isr.uc.pt
 
